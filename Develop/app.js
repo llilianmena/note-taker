@@ -3,7 +3,7 @@ const path = require('path');
 const database = require("./db/database");
 
 const app = express();
-const port = 3000; // You can choose any port
+const port = process.env.PORT || 3000; // You can choose any port
 
 // Serve static files from the "public" folder
 app.use(express.static(path.join(__dirname, 'public')));
