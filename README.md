@@ -1,6 +1,6 @@
 # Note Taker Starter Code# Note Taker Application
-
-
+![NT-1](./assets/images/NT-1.png)
+![NT-2](./assets/images/NT-2.png)
 
 ## Link
 https://note-taker-v0vr.onrender.com/
